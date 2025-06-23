@@ -11,3 +11,28 @@ The primary objective of this project is to extract meaningful insights from the
 ## Analysis Overview
 
 The analysis is structured into five key sections, each aimed at answering important questions about the nature and trends of crime in New York City:
+
+### 1. Composition of crimes
+
+* The total number of reported crimes in the dataset.
+* Breakdown reported crimes among felony, misdemeanor, and violation.
+* The top-10 most reported crimes among felonies.
+
+### 2. Temporal trends in crime
+
+* Total number of all reported crimes per year
+* Total number of all reported crimes per month
+
+### 3. Focus on major felonies
+
+* Reporting the number of these crimes over time by felony type
+
+### 4. Major felonies by hour of day
+
+- Breakdown of major felonies by hour of the day
+- Normalized hourly trend of major felonies for easier comparison
+
+### 5. Spatial analysis
+
+- Where in New York City are these crimes taking place?
+- A density map is used to visualize the geographic concentration of each major felony.

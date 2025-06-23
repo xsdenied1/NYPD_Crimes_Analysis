@@ -40,4 +40,5 @@ The analysis is structured into five key sections, each aimed at answering impor
 
 ## Visualizations
 
+Visualizations are included in the repository
 

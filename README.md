@@ -36,3 +36,8 @@ The analysis is structured into five key sections, each aimed at answering impor
 
 - Where in New York City are these crimes taking place?
 - A density map is used to visualize the geographic concentration of each major felony.
+
+
+## Visualizations
+
+
